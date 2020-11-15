@@ -1,0 +1,2 @@
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\Debug\AlgoRithmNote.exe
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\Debug\AlgoRithmNote.pdb

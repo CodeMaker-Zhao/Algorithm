@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Algorithms fourth">
+      <UniqueIdentifier>{5a24a374-1031-404d-b86a-6390cad7f78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Algo Notes">
+      <UniqueIdentifier>{a491fba7-9c23-404d-b9dd-624a33b4790d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Algorithms fourth\Chapter1">
+      <UniqueIdentifier>{96f5e805-52b2-4229-a05d-6f240ec43db1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="CallatzSup.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="codeup1934.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawSquare.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="findPAT.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="FullPermutation.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="Pat1032.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="randSelect.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="SellMoonCake.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="log2N.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Fibonacci.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="histogram.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="lnN!.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="printFormat.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearhRecur.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Euclid.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="primeMatrix.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
