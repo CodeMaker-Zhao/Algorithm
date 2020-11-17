@@ -6,5 +6,5 @@
 using namespace std;
 
 int main() {
-	primeMatrix(10, 10);
+
 }

@@ -140,8 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PAT B1019.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BagQueueStack.h" />
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="BinarySearhRecur.h" />
     <ClInclude Include="CallatzSup.h" />
