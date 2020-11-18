@@ -2,13 +2,7 @@
 #define EUCLID
 #include<iostream>
 int findEuclid(int p, int q) {
-	int remainder = p % q;
-	while (remainder != 0) {
-		p = q;
-		q = remainder;
-		remainder = p % q;
-	}
-	return q;
+	return !q ? p : findEuclid(q, p % q);
 }
 #endif // !EUCLID
 

@@ -1,2 +1,12 @@
-﻿  PAT B1019.cpp
-C:\Users\zhaoliqun\source\repos\AlgoRithmNote\PAT B1019.cpp(21,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+﻿  main.cpp
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\PATB1019.h(28,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\primeMatrix.h(7,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\primeMatrix.h(9,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\primeMatrix.h(15,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\primeMatrix.h(17,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\findPrime.h(30,39): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\findPrime.h(50,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\main.cpp(51,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\main.cpp(61,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zhaoliqun\source\repos\AlgoRithmNote\main.cpp(65,24): warning C4018: “<=”: 有符号/无符号不匹配
+  AlgoRithmNote.vcxproj -> C:\Users\zhaoliqun\source\repos\AlgoRithmNote\Debug\AlgoRithmNote.exe

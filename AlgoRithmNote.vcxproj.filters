@@ -27,9 +27,6 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="PAT B1019.cpp">
-      <Filter>头文件\Algo Notes</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinarySearch.h">
@@ -88,6 +85,18 @@
     </ClInclude>
     <ClInclude Include="BagQueueStack.h">
       <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="PATB1019.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="findPrime.h">
+      <Filter>头文件\Algo Notes</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>头文件\Algorithms fourth\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="Pop Sequence.h">
+      <Filter>头文件\Algo Notes</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

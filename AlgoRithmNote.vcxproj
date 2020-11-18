@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="PAT B1019.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BagQueueStack.h" />
@@ -150,14 +149,18 @@
     <ClInclude Include="Euclid.h" />
     <ClInclude Include="Fibonacci.h" />
     <ClInclude Include="findPAT.h" />
+    <ClInclude Include="findPrime.h" />
     <ClInclude Include="FullPermutation.h" />
     <ClInclude Include="histogram.h" />
     <ClInclude Include="lnN!.h" />
     <ClInclude Include="log2N.h" />
+    <ClInclude Include="PATB1019.h" />
+    <ClInclude Include="Pop Sequence.h" />
     <ClInclude Include="primeMatrix.h" />
     <ClInclude Include="printFormat.h" />
     <ClInclude Include="randSelect.h" />
     <ClInclude Include="SellMoonCake.h" />
+    <ClInclude Include="Stack.h" />
     <ClInclude Include="transform.h" />
     <ClInclude Include="codeup1934.h" />
     <ClInclude Include="DrawSquare.h" />
